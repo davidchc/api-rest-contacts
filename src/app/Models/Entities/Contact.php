@@ -82,13 +82,5 @@ class Contact
         $this->telephone = $telephone;
     }
 
-    protected function populate($data)
-    {
-        foreach ($data as $key => $value) {
-
-        }
-    }
-
-
 
 }
